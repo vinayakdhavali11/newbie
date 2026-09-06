@@ -1,4 +1,4 @@
 # newbie
 first Git repo.
 <br>
-Name : Vinayak
+Name : Vinayak Ravi Dhavali
